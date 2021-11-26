@@ -15,9 +15,11 @@ https://developers.google.com/custom-search/v1/overview https://serpapi.com http
 
 https://darksearch.io/apidoc Dark web
 
-## Email to phone
+## Email <-> phone
 
-https://github.com/martinvigo/email2phonenumber This looks pretty epic, need to see how well this works
+https://github.com/martinvigo/email2phonenumber This looks pretty epic. Shame it's only US numbers.
+
+https://github.com/lorien/awesome-osint List of URLs and info on what info password resetting provides
 
 ## Online monitoring 
 
