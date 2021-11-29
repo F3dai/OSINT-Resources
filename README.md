@@ -7,7 +7,7 @@ https://numverify.com/ https://numverify.com https://www.plivo.com/lookup/ https
 
 https://mailboxlayer.com/ https://emailcrawlr.com/ https://www.voilanorbert.com/api/ Email lookup
 
-https://haveibeenpwned.com/API/v2 https://psbdmp.ws/api https://psbdmp.ws/api https://breachdirectory.com/api?lang=en https://leak-lookup.com/api https://rapidapi.com/rohan-patra/api/breachdirectory/pricing Pastebin / Leaks
+https://haveibeenpwned.com/API/v2 https://psbdmp.ws/api https://psbdmp.ws/api https://breachdirectory.com/api?lang=en https://leak-lookup.com/api https://rapidapi.com/rohan-patra/api/breachdirectory/pricing Pastebin / Leaks (Using this algorithm to anonymise password lookups https://en.wikipedia.org/wiki/K-anonymity)
  
 https://search4faces.com/api.html Face search
 
