@@ -83,6 +83,8 @@ https://web.archive.org/
 
 ## Other OSINT resources
 
+https://osintframework.com/ OSINT framework. Good framework but some outdated tools / sites
+
 https://start.me/p/rxRbpo/ti 
 
 https://awesomeopensource.com/projects/osint 
