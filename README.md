@@ -77,6 +77,8 @@ https://tools.epieos.com/email.php Finds websites an email is signed up to
 
 https://github.com/mxrch/GHunt investigate Google accounts, or objects.
 
+https://github.com/megadose/holeheEfficiently finding registered accounts from emails.
+
 ## Databases
 
 http://pwndb2am4tzkvold.onion/ PWNDB (ONION) 
