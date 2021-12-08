@@ -15,6 +15,8 @@ https://developers.google.com/custom-search/v1/overview https://serpapi.com http
 
 https://darksearch.io/apidoc Dark web
 
+https://www.scraperapi.com/ scraping API
+
 ## Email <-> phone
 
 https://github.com/martinvigo/email2phonenumber This looks pretty epic. Shame it's only US numbers.
