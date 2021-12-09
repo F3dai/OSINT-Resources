@@ -1,0 +1,68 @@
+{
+    "sites" : [
+        {
+            "name" : "Twitter",
+            "url" : "https://twitter.com/account/begin_password_reset",
+            "noise" : "'Mostly' silent",
+            "phone" : "Last 2 digits",
+            "email" : "First 2 letters."
+        },
+        {
+            "name" : "Facebook",
+            "url" : "https://www.facebook.com/login/identify/",
+            "noise" : "Silent",
+            "phone" : "Last 2 digits",
+            "email" : "First letter, and/or alternative email with first and last letter"
+        },
+        {
+            "name" : "Paypal",
+            "url" : "https://www.paypal.com/authflow/password-recovery/",
+            "noise" : "Silent",
+            "phone": "First 2, and last 4 digits"
+        },
+        {
+            "name" : "VK",
+            "url" : "https://vk.com/restore",
+            "noise" : "Silent",
+            "username" : "Phone number required",
+            "phone" : "Email address required"
+        },
+        {
+            "name" : "Apple",
+            "url" : "https://iforgot.apple.com/password/verify/appleid",
+            "noise" : "Mostly silent",
+            "phone" : "Last 2 digits"
+        },
+        {
+            "name" : "Ebay",
+            "url" : "https://signin.ebay.com/ws/eBayISAPI.dll?SignIn",
+            "noise" : "Mostly silent",
+            "email" : "First and last letter + email provider",
+        },
+        {
+            "name" : "Samsung",
+            "url" : "https://account.samsung.com/accounts/v1/SAMSUNGCA/findId",
+            "noise" : "Silent",
+            "email" : "First name, last name and birthday required"
+        },
+        {
+            "name" : "Instagram",
+            "url" : "https://www.instagram.com/accounts/password/reset/ ",
+            "noise" : "Alerts",
+            "email" : "First and last letter + email provider"
+        },
+        {
+            "name" : "Telegram",
+            "url" : "https://t.me/TgScanRobot",
+            "noise" : "Silent",
+            "groups" : "Username / ID to groups the user is in",
+            "username" : "Phone number required - add to your contacts, then add from contacts.",
+        },
+        {
+            "name" : "Outlook",
+            "url" : "https://outlook.live.com/",
+            "noise" : "Silent",
+            "LinkedIn" : "Email required - Create a new contact and check the 'LinkedIn' tab"
+        }
+    ]
+}
