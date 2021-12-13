@@ -13,7 +13,7 @@ https://search4faces.com/api.html Face search
 
 https://developers.google.com/custom-search/v1/overview https://serpapi.com https://www.microsoft.com/en-us/bing/apis/bing-web-search-api https://products.wolframalpha.com/api/pricing/ https://duckduckgo.com/api Search engines
 
-https://darksearch.io/apidoc Dark web
+https://darksearch.io/apidoc https://www.darkowl.com/vision-api Dark web
 
 https://www.scraperapi.com/ scraping API
 
@@ -66,6 +66,8 @@ https://backgroundchecks.org/justdeleteme/ or https://justdeleteme.xyz/
 https://backgroundchecks.org/ 
 
 ## Account Enumeration 
+
+https://grep.app/search Search across a half million git repos
 
 https://whatsmyname.app/ 
 
