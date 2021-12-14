@@ -87,6 +87,8 @@ https://github.com/megadose/holeheEfficiently finding registered accounts from e
 
 http://pwndb2am4tzkvold.onion/ PWNDB (ONION) 
 
+https://scamsearch.io/ Gobal scam database. Search by picture, email, username, pseudo name, number or crypto address. 
+
 ## Wayback machine
 
 https://web.archive.org/ 
