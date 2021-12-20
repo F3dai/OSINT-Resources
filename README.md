@@ -105,3 +105,5 @@ https://awesomeopensource.com/projects/osint
 
 https://github.com/soxoj/socid-extractor parse key info from social media accounts
 
+https://github.com/OhShINT/ohshint.gitbook.io Loads of great OSINT resources 
+
