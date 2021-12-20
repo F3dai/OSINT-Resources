@@ -23,6 +23,8 @@ https://github.com/martinvigo/email2phonenumber This looks pretty epic. Shame it
 
 https://github.com/lorien/awesome-osint List of URLs and info on what info password resetting provides
 
+https://github.com/sharsil/mailcat Find existing email addresses by nickname using API/SMTP checking methods
+
 ## Online monitoring 
 
 https://github.com/jordan-wright/dumpmon 
