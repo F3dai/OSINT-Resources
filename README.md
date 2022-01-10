@@ -85,6 +85,8 @@ https://github.com/mxrch/GHunt investigate Google accounts, or objects.
 
 https://github.com/megadose/holeheEfficiently finding registered accounts from emails.
 
+https://github.com/blackeko/yesitsme  Simple OSINT script to find Instagram profiles by name and e-mail/phone 
+
 ## Databases
 
 http://pwndb2am4tzkvold.onion/ PWNDB (ONION) 
